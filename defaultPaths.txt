@@ -1,0 +1,2 @@
+AI database => states.json
+neural networks saves => neural.aibr
